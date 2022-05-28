@@ -1,17 +1,23 @@
 # akhilgonde
 
-
- 
 <h1 align="center">Hi 👋, I'm Akhil Gonde</h1>
 <h3 align="center">A passionate Java Backend developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilgonde&label=Profile%20views&color=0e75b6&style=flat" alt="akhilgonde" /> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akhilgonde" alt="akhilgonde" /></a> </p>
+
+- 🌱 I’m currently learning **Java Backend**
+
+- 👨‍💻 All of my projects are available at [@gmail.com](@gmail.com)
 
 - 📝 I regularly write articles on [https://medium.com/@akhil.gonde143](https://medium.com/@akhil.gonde143)
 
 - 📫 How to reach me **akhil.gonde143@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1M-drkk87e6TESEHyJsaPvcOipvgY0kgu/edit?usp=sharing&ouid=114421801010011293791&rtpof=true&sd=true](https://docs.google.com/document/d/1M-drkk87e6TESEHyJsaPvcOipvgY0kgu/edit?usp=sharing&ouid=114421801010011293791&rtpof=true&sd=true)
+
+- ⚡ Fun fact **I think I am Funny**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -21,6 +27,7 @@
 <p align="left">
 <a href="https://twitter.com/akhilgonde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akhilgonde" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/akhil-gonde-31914918a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akhil-gonde-31914918a" height="30" width="40" /></a>
+<a href="https://instagram.com/akhilgonde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akhilgonde" height="30" width="40" /></a>
 <a href="https://medium.com/@akhil.gonde143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@akhil.gonde143" height="30" width="40" /></a>
 </p>
 
@@ -30,3 +37,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akhilgonde&show_icons=true&locale=en&layout=compact" alt="akhilgonde" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akhilgonde&show_icons=true&locale=en" alt="akhilgonde" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akhilgonde&" alt="akhilgonde" /></p>
