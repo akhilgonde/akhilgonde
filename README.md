@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **akhil.gonde143@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1M-drkk87e6TESEHyJsaPvcOipvgY0kgu/edit?usp=sharing&ouid=114421801010011293791&rtpof=true&sd=true](https://docs.google.com/document/d/1M-drkk87e6TESEHyJsaPvcOipvgY0kgu/edit?usp=sharing&ouid=114421801010011293791&rtpof=true&sd=true)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ohDTdN5G5NPUhd9nCgKi9PsoeZ3Bf4nZ/view?usp=sharing](https://drive.google.com/file/d/1ohDTdN5G5NPUhd9nCgKi9PsoeZ3Bf4nZ/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am Funny**
 
