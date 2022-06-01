@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Java Backend**
 
-- 👨‍💻 All of my projects are available at [@gmail.com](@gmail.com)
+- 👨‍💻 All of my projects are available at [https://tubular-paprenjak-c0b383.netlify.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@akhil.gonde143](https://medium.com/@akhil.gonde143)
 
