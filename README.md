@@ -1,7 +1,7 @@
 # akhilgonde
 
 <h1 align="center">Hi 👋, I'm Akhil Gonde</h1>
-<h3 align="center">Hi, I'm Akhil Gonde, A Student and Learner 🚀 from Chandrapur, India, currently 💻 learning Java Backend Development at Masai School. I am passionate about technology and want to learn & explore new technologies I'm Masai School Student, @Masai School. My hobbies and leisure interest includes playing cricket.I have keen interest in writing Poetry and I love travelling and trekking..</h3>
+<h3 align="center">Hi, I'm Akhil Gonde, A Student and Learner 🚀 from Chandrapur, India, currently 💻 learning Java Backend Development at Masai School. I am passionate about technology and want to learn & explore new technologies. My hobbies and leisure interest includes playing cricket.I have keen interest in writing Poetry and I love travelling and trekking..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilgonde&label=Profile%20views&color=0e75b6&style=flat" alt="akhilgonde" /> </p>
 
