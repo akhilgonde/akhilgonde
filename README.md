@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Java Backend**
 
-- 👨‍💻 All of my projects are available at [https://akkhilgonde-portfolio.netlify.app/](https://akkhilgonde-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://akhil-gondeportfolio-38713b.netlify.app/](https://akhil-gondeportfolio-38713b.netlify.app)
 
 - 📝 I regularly write articles on [https://medium.com/@akhil.gonde143](https://medium.com/@akhil.gonde143)
 
