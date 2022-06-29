@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **Java Backend**
 
-- 👨‍💻 All of my projects are available at [https://akhil-gondeportfolio-38713b.netlify.app/](https://akhil-gondeportfolio-38713b.netlify.app)
+- 👨‍💻 All of my projects are available at [https://akhil-gonde-ca6427.netlify.app/](https://akhil-gonde-ca6427.netlify.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@akhil.gonde143](https://medium.com/@akhil.gonde143)
 
 - 📫 How to reach me **akhil.gonde143@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1WuwwdBsf3RiuDE6JR9UAm9BlSi4CqAmm/view?usp=sharing](https://drive.google.com/file/d/1WuwwdBsf3RiuDE6JR9UAm9BlSi4CqAmm/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1n7i5Y4nkI8P5GLXImM1gQoPBKXa72qS3/view?usp=sharing](https://drive.google.com/file/d/1n7i5Y4nkI8P5GLXImM1gQoPBKXa72qS3/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am Funny**
 
